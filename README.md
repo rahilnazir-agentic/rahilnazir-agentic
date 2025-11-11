@@ -14,7 +14,7 @@ I focus on building **hands-on AI Agents** and frameworks that blend automation,
 - 🚀 **Fine-tuning:** Llama, Gemma, and other open-source models  
 - 🧩 **Code-first courses:** building with Agent Development Kit and OpenAI SDK, [Swarm-agentic-dev](https://github.com/ruvnet/claude-flow), [SPARC Framework](https://gist.github.com/ruvnet/27ee9b1dc01eec69bc270e2861aa2c05)
 
-- **[EVAL](https://agenticedge.io/why-every-ai-app-needs-eval)** — Why every AI app needs EVAL.  A framework for testing and benchmarking **AI Agent performance** across accuracy, reliability, and contextual reasoning.
+- 🔍 **EVALs** — Why every AI app needs [EVAL](https://agenticedge.io/why-every-ai-app-needs-eval).  A framework for testing and benchmarking **AI Agent performance** across accuracy, reliability, and contextual reasoning.
 
 ---
 
