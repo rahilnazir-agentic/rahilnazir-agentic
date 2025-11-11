@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rahil  
 
-AI Builder & Founder — I build production-grade **AI Agents** and tools that solve real business problems.
+AI Builder & Founder — crafting production-grade **AI Agents** and tools that solve real business problems.
 
 I focus on building **hands-on AI Agents** and frameworks that blend automation, data, and design — helping teams move from prototype to production faster.
 
