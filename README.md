@@ -9,11 +9,11 @@ I focus on building **hands-on AI Agents** and frameworks that blend automation,
 ## 🧠 What I’m Working On
 
 - 🤖 **AI Agents:** single-agent, multi-agent, MCP-based, browser agents, voice agents, and local agents  
-- 📦 **Ready-to-run examples:** clone → install → run  
-- 🔧 **Dev workflows:** structuring agents, handling tools, logs, eval, and planning  
+- 🔧 **Dev workflows:** SPARC framework, structuring agents, handling tools, logs, eval, and planning  
 - 🗂️ **RAG setups:** simple chains → agentic RAG → hybrid search → local RAG  
-- 🚀 **Fine-tuning:** Gemma, Llama, and other open-source models  
-- 🧩 **Code-first courses:** building with Agent Development Kit and OpenAI SDK
+- 🚀 **Fine-tuning:** Llama, Gemma, and other open-source models  
+- 🧩 **Code-first courses:** building with [Agent Development Kit and OpenAI SDK](https://github.com/ruvnet/claude-flow) — including practical guides like [Claude Flow Example](https://gist.github.com/ruvnet/27ee9b1dc01eec69bc270e2861aa2c05)
+
 - **[EVAL](https://agenticedge.io/why-every-ai-app-needs-eval)** — Why every AI app needs EVAL.  A framework for testing and benchmarking **AI Agent performance** across accuracy, reliability, and contextual reasoning.
 
 ---
