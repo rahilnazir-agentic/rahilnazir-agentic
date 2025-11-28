@@ -64,6 +64,7 @@ I focus on building **hands-on AI Agents** and frameworks that blend automation,
 </table>
 
 ---
+
 ## 💻 Tech Stack
 
 <p align="center">
@@ -78,6 +79,7 @@ I focus on building **hands-on AI Agents** and frameworks that blend automation,
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
 </p>
+
 ---
 
 ## 📊 GitHub Stats
