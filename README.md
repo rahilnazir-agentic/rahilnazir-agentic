@@ -23,23 +23,6 @@ I focus on building **hands-on AI Agents** and frameworks that blend automation,
 
 ---
 
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,react,nextjs,tailwind,postgres,docker,aws,vercel&perline=10" alt="Tech Stack" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=robot&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge&logo=database&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-</p>
-
----
-
 ## 🧠 Current Focus Areas
 
 ### 🤖 AI Agents & Systems
@@ -80,6 +63,21 @@ I focus on building **hands-on AI Agents** and frameworks that blend automation,
 </tr>
 </table>
 
+---
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,nodejs,react,nextjs,tailwind,postgres,docker,aws,vercel&perline=10" alt="Tech Stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=robot&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+</p>
 ---
 
 ## 📊 GitHub Stats
