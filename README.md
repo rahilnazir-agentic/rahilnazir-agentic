@@ -19,7 +19,9 @@
 🧠 Passionate about **AI Agents, RAG Systems, LLMs, and Automation**  
 📚 Teaching AI builders through **[AgenticEdge.io](https://agenticedge.io/)**
 
-I focus on building **hands-on AI Agents** and frameworks that blend automation, data, and design — helping teams move from prototype to production faster.
+I focus on building **hands-on AI Agents** and frameworks that blend automation, evals, multi-agentic systems, data, and design — helping teams move from prototype to production faster.
+
+I run the open-source **[Practical LLM Apps](https://github.com/rahilnazir-agentic/practical-LLM-apps)** , the repo where I share real, production-minded LLM apps you can clone, run, and adapt in under an hour.
 
 ---
 
