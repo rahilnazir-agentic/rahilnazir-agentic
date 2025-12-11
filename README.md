@@ -21,7 +21,7 @@
 
 I focus on building **hands-on AI Agents** and frameworks that blend automation, evals, multi-agentic systems, data, and design — helping teams move from prototype to production faster.
 
-I also manage open-source community project - **[Practical LLM Apps](https://github.com/rahilnazir-agentic/practical-LLM-apps)** , the repo where I share real, production-minded LLM apps you can clone, run, and adapt in under an hour.
+I also manage open-source community project - **[Practical LLM Apps](https://github.com/rahilnazir-agentic/practical-LLM-apps)** , the repo where I share real, production-minded LLM apps & AI Agents you can clone, run, and adapt in under an hour.
 
 ---
 
