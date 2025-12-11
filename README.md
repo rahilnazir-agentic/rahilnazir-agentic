@@ -1,14 +1,13 @@
 # 👋 Hi, I'm Rahil Nazir!
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+Engineer+%26+Founder;Building+Production-Grade+AI+Agents;Open-Source+AI+Tutorials+%26+Frameworks;Helping+Builders+Ship+Real+AI+Products" alt="Typing SVG" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/rahilnazir/" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20-Rahil%20on%20LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="Follow Rahil on LinkedIn" />
+  </a>
+  <a href="https://x.com/coder_on_ai" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20-@coder__on__ai-black?style=for-the-badge&logo=x" alt="Follow @coder_on_ai on X" />
+  </a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahilnazir-agentic&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/rahilnazir-agentic?label=Followers&style=social" alt="GitHub followers" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -135,7 +134,7 @@ I also manage open-source community project - **[Practical LLM Apps](https://git
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ai-agents-builder/">
+  <a href="https://www.linkedin.com/in/rahilnazir/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/coder_on_ai">
